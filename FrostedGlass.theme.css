@@ -13,14 +13,14 @@
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
 
 /* BlackBox tags */
-@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+/* @import url('https://monstrousdev.github.io/themes/addons/user-tags.css'); */
 
 /* Old Windows titlebar - remove this @import if you wish to use default titlebar */
-@import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
+/* @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css"); */
 
 :root {
   /* Background image variables */
-  --background-image: url('https://images2.imgbox.com/14/50/NlvaInUO_o.jpg'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url('https://images2.imgbox.com/c4/c5/KiQzP9dd_o.jpg'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 0; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
